@@ -1,0 +1,5 @@
+{
+  "name": "FactTrace",
+  "description": "An elite digital forensics and fact-checking engine designed to combat misinformation by analyzing images and videos with rigorous skepticism.",
+  "requestFramePermissions": []
+}
